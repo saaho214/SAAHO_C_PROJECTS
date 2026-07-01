@@ -1,0 +1,4 @@
+3
+1|5|1|500.00|Monetary donation|30-06-2026|Pending|1
+2|5|2|0.00|Rice packets|30-06-2026|Pending|1
+3|1003|2|0.00|kajdnc aksjna casncl|23-43-54|Approved|1

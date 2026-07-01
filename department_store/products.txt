@@ -1,0 +1,15 @@
+101|Rice|60.00|50
+102|Sugar|45.50|30
+103|Cooking Oil|180.00|20
+104|Milk Powder|250.00|15
+105|Tea Powder|120.00|25
+106|Coffee|350.00|10
+107|Soap|40.00|100
+108|Shampoo|180.00|40
+109|Toothpaste|95.00|60
+110|Biscuits|30.00|80
+111|Dark Chocolate|150.00|20
+112|Cold Drink|55.00|35
+113|Notebook|70.00|50
+114|Pen|15.00|200
+115|Detergent Powder|220.00|18
