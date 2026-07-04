@@ -1,0 +1,6 @@
+steps to run file in cmd with "c (gcc) compiler" : 
+=============================================
+
+step 1 - gcc filename.c -o main
+step 2 - main
+=============================================
