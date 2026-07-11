@@ -1,0 +1,6 @@
+1000 Chennai Pune 06:30 30 29
+1001 Mumbai Nashik 13:15 35 34
+1002 Raigad Telangana 12:25 30 29
+1003 Bengluru Telangana 16:45 40 39
+1004 Telangana Nashik 15:30 40 39
+1005 Delihi Bengluru 18:45 35 34
