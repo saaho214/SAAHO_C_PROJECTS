@@ -1,0 +1,6 @@
+admin admin admin
+user user user
+saaho saaho user
+ram ram user
+raj raj user
+vijay vijay admin

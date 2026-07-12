@@ -1,0 +1,11 @@
+1|saaho|8575635021|200|kerala
+2|rocky|9876543210|350|mumbai
+3|priya|9123456789|120|delhi
+4|arjun|8887776665|500|bangalore
+5|sneha|7776665554|280|chennai
+6|kabir|9998887776|420|kolkata
+7|zara|8555444333|190|hyderabad
+8|rohit|7222333444|610|pune
+9|diya|9333444555|310|ahmedabad
+10|manish|8111222333|240|jaipur
+11|ananya|9444555666|480|kochi

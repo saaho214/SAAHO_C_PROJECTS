@@ -1,0 +1,12 @@
+1 admin admin 1
+2 vijay vijay 2
+3 anand anand 1
+4 rajesh rajesh 2
+5 amit amit 1
+6 vikram vikram 2
+7 neha neha 1
+8 rahul rahul 2
+9 sunita sunita 1
+10 deepak deepak 2
+11 pooja pooja 1
+12 kiran kiran1

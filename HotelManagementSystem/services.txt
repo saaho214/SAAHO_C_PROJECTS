@@ -1,0 +1,7 @@
+1 food 1000.00
+2 clean 2000.00
+3 cloth 3000.00
+4 kitchen 3000.00
+5 gardener 2000.00
+6 washer 1000.00
+7 driver 3000.00

@@ -1,0 +1,6 @@
+100|saaho|7593759375|chennai|migrane|saaho
+102|user|9856759375|mumbai|bone_surgery|user
+103|raj|2354759375|pune|cough|raj
+104|ram|7593983475|akola|fever|ram
+105|mac|7598239375|patna|cold|mac
+106|manju|7593798125|amravati|brain_surgery|manju
