@@ -1,0 +1,12 @@
+what is array?
+variable
+datatype
+group of data
+stores int value
+2
+what is variable?
+datatype
+container
+value
+character
+1
