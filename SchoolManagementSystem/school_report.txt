@@ -1,0 +1,18 @@
+--- School Management Report ---
+
+STUDENT INFORMATION
+ID    Name                 Class     
+----------------------------------
+1     saaho                10        
+2     saaho                10        
+3     vijay                9         
+4     om                   10        
+5     raj                  10        
+6     ram                  9         
+7     kajol                10        
+
+FINANCIAL REPORT
+Total Fees Collected: $60000.00
+Total Fees Due: $10000.00
+Total Expenses: $0.00
+Net Profit/Loss: $60000.00
